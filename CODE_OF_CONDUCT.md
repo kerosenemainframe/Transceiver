@@ -49,8 +49,7 @@ This Code of Conduct applies both within project spaces and in public spaces
 when an individual is representing the project or its community. Examples of
 representing a project or community include using an official project e-mail
 address, posting via an official social media account, or acting as an appointed
-representative at an online or offline event. Representation of a project may be
-further defined and clarified by project maintainers.
+representative at an online or offline event. Adding, changing, or removing any file from this GitHub repository needs to both reflect this code of conduct and the information in CONTRIBUTING.md.
 
 ## Enforcement
 
@@ -59,11 +58,17 @@ reported by contacting the project team at kerosenemainframe@gmail.com. All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
 obligated to maintain confidentiality with regard to the reporter of an incident.
-Further details of specific enforcement policies may be posted separately.
 
 Project maintainers who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
 members of the project's leadership.
+
+### Warnings
+The most common type of enforcement policy for minor infractions is a warning. Warnings are still counted against you in case of future events, however, they do not have any immediate impact. Examples of a possible reason for a warning include typing unproductive comments.
+### Temporary Kick
+A temporary kick occurs when an infraction is major enough to warrant reprecussions. The time in which a temporary kick occurs varies based on the type of infraction, but will usually last between one day and one week. An example of an infraction that would warrant a temporary kick is use of profanity in content uploaded to this repository.
+### Permanent Ban
+Permanent bans are the least likely type of infraction to occur, and only happen when somebody has destroyed the work of other people or mae multiple violations of the code of conduct within a time period of one week.
 
 ## Attribution
 
@@ -74,3 +79,6 @@ available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.ht
 
 For answers to common questions about this code of conduct, see
 https://www.contributor-covenant.org/faq
+
+## Additional Information
+For more information related to this code of conduct, please visit the link above or contact a member of this project. To find a member of this project, please review the _"Authors"_ section of the README file.
