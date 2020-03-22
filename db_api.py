@@ -1,3 +1,5 @@
+#This is an unstable API Release. Please execute this program at your own risk.
+
 import MySQLdb
 import base64
 import socket
